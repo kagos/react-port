@@ -28,6 +28,7 @@
   "dependencies": {
     "babel-cli": "^6.4.0",
     "react": "^0.14.3",
+    "react-bootstrap": "^0.29.5",
     "react-dom": "^0.14.3",
     "react-share": "^1.8.0"
   },

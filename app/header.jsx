@@ -1,5 +1,5 @@
 import React from 'react';
-import SocialMedia from './SocialMedia.jsx';
+import NavBarComponent from './NavBar.jsx';
 
 class HeaderComponent extends React.Component {
   constructor(props) {
@@ -9,7 +9,7 @@ class HeaderComponent extends React.Component {
   render() {
     return (
       <div className="HeaderComponent__container">
-        <SocialMedia />
+        <NavBarComponent />
       </div>
     );
   }
